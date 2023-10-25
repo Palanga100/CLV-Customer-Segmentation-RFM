@@ -1,0 +1,14 @@
+The recency (days since the last purchase), frequency (number of purchases), and monetary (total amount spent) metrics were calculated for each customer within a specific time range (December 1, 2010, to December 1, 2011).																	
+RFM Scores: Scores were asigned to each customer based on their recency, frequency, and monetary values. Higher scores indicate better recency, higher frequency, and more spending. The scoring is done by dividing each metric into four quartiles, with a score of 4 being the highest and 1 being the lowest.																	
+RFM Segmentation: After obtaining the scores, customers were segmentated into different categories. 																	
+Champions: High recency and high monetary value customers.																	
+Loyal Customers: High recency and medium monetary value customers.																	
+Recent Customers: High recency and low monetary value customers.																	
+Promising: Medium recency and low monetary value customers.																	
+Customers Needing Attention: Low recency and medium to high monetary value customers.																	
+Cant Lose Them: Low recency and high monetary value customers.																	
+At Risk: Low recency and medium monetary value customers.																	
+Hibernating: Low recency and low monetary value customers.																	
+Lost: Very low recency and very low monetary value customers.																	
+It's important to note that the success of the marketing efforts will depend on the understanding of the specific characteristics and preferences of each customer segment.																	
+It is recomended to use this RFM analysis as a starting point to create targeted marketing campaigns and improve customer retention and revenue.																	
